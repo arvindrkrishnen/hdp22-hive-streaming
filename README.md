@@ -1,11 +1,8 @@
-## Hive streaming workshop
-This demo is part of a 'Interactive Query with Apache Hive' webinar.
+# Hadoop Hive Training 
 
-The webinar recording and slides are available at http://hortonworks.com/partners/learn/#hive
+# Download HDP 2.2 Sandbox from Hortonworks website. If you are using Windows, download putty. If Mac, you can directly connect to Sandbox
 
-Instructions for HDP 2.2 can be found [here](https://github.com/abajwa-hw/hdp22-hive-streaming/blob/master/README-22.md)
-
-#### Demo overview
+# Play the HDP 2.2 in VirtualBox or VMPlayer. Connect to Sandbox using the IP address given in the Sandbox environment and port number through putty or Mac terminal
 
 1. [Start HDP 2.3 sandbox and enable Hive features like transactions, queues, preemption, Tez and sessions](https://github.com/abajwa-hw/hdp22-hive-streaming#part-1---start-sandbox-vm-and-enable-hive-features)
 2. [Sqoop - import PII data of users from MySql into Hive ORC table](https://github.com/abajwa-hw/hdp22-hive-streaming#part-2---import-data-from-mysql-to-hive-orc-table-via-sqoop)
